@@ -30,48 +30,51 @@ This project extracts track information (artists, albums, genres, etc.) from the
  [Create one here](https://developer.spotify.com/dashboard/)
 
 ---
-
-### Installation
+### 📥 Installation
 
 #### 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/spotify-etl-pipeline.git
 cd spotify-etl-pipeline
-2. (Optional) Create Virtual Environment
-bash
-Copy
-Edit
+```
+
+### 2. (Optional) Create Virtual Environment
+```bash
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-3. Install Dependencies
-bash
-Copy
-Edit
+```
+
+###3. 3. Install Dependencies
+```
 pip install -r requirements.txt
+```
+
 4. Set up .env file
 Create a .env file in the root directory and add your Spotify credentials:
-
-env
-Copy
-Edit
+```
 SPOTIFY_CLIENT_ID=your_client_id
 SPOTIFY_CLIENT_SECRET=your_client_secret
+```
+
 5. Create MySQL Database
 Run the provided SQL schema (you can also use a tool like MySQL Workbench):
-
-sql
-Copy
-Edit
+```
 source spotify.sql
-Run the Project
-bash
-Copy
-Edit
+```
+
+ Run the Project
+ ```
 python3 spotify_urls.py
-This script will:
+```
+
+## This script will:
 
 Authenticate via Spotify API
 
 Extract track/artist/album data
 
 Transform and load it into the MySQL database
+
+
+
+
