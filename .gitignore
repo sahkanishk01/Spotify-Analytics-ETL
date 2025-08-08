@@ -1,0 +1,9 @@
+.env
+
+.venv/
+venv/
+ENV/
+
+.cache
+.cache-*
+to-do.txt
