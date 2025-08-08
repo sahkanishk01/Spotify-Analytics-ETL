@@ -1,0 +1,22 @@
+=== Artist Collaboration Analysis ===
+
+Total Collaborations Found: 721
+
+Most Frequent Collaborators:
+• Travis Scott: 28 collaborations
+• Drake: 22 collaborations
+• Young Thug: 19 collaborations
+• Future: 17 collaborations
+• Lil Uzi Vert: 14 collaborations
+
+Most Popular Collaborations:
+• Die With A Smile - Lady Gaga feat. A Smile (Popularity: 100)
+• Timeless (with Playboi Carti) - The Weeknd feat. Playboi Carti (Popularity: 92)
+• tv off (feat. lefty gunplay) - Kendrick Lamar feat. lefty gunplay (Popularity: 91)
+• One Of The Girls (with JENNIE, Lily Rose Depp) - The Weeknd feat. JENNIE, Lily Rose Depp (Popularity: 90)
+• Like Him (feat. Lola Young) - Tyler, The Creator feat. Lola Young (Popularity: 90)
+• Sticky (feat. GloRilla, Sexyy Red & Lil Wayne) - Tyler, The Creator feat. GloRilla, Sexyy Red & Lil Wayne (Popularity: 89)
+• See You Again (feat. Kali Uchis) - Tyler, The Creator feat. Kali Uchis (Popularity: 89)
+• luther (with sza) - Kendrick Lamar feat. sza (Popularity: 87)
+• All The Stars (with SZA) - Kendrick Lamar feat. SZA (Popularity: 86)
+• FE!N (feat. Playboi Carti) - Travis Scott feat. Playboi Carti (Popularity: 86)

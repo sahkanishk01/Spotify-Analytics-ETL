@@ -1,0 +1,14 @@
+client secrets get rotated
+spotify developers
+
+pip install spotipy pandas matplotlib mysql-connector-python python-dotenv
+
+WEEKND - BLINDING LIGHTS
+SUGAR
+BORN TO DIE
+SIGN OF THE TIMES
+STAY
+GOD'S PLAN
+THAT'S WHAT I LIKE
+CLOSER
+ATTENTION

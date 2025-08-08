@@ -1,0 +1,7 @@
+=== Release Year Analysis ===
+
+Earliest Track Year: 1945
+Latest Track Year: 2025
+Most Common Year: 2020
+Year with Highest Average Popularity: 1961 (78.00)
+Year with Longest Average Duration: 1966 (6.92 minutes)

@@ -1,0 +1,17 @@
+=== Artist Network Analysis ===
+
+Number of artists: 30
+Number of connections: 258
+
+Most connected artists:
+- Future: 0.793
+- Lil Yachty: 0.793
+- Young Thug: 0.793
+- Daft Punk: 0.793
+- The Weeknd: 0.759
+
+Number of artist communities: 2
+
+Largest communities:
+Community 1: A$AP Rocky, Playboi Carti, Travis Scott, Tyler, The Creator, Future and 11 more
+Community 2: Trippie Redd, Kanye West, 070 Shake, Childish Gambino, Metro Boomin and 9 more

@@ -1,0 +1,14 @@
+pandas
+matplotlib
+numpy
+spotipy
+python-dotenv
+mysql-connector-python
+seaborn
+streamlit
+plotly==5.18.0
+plotly-express==0.4.1
+pytest
+black
+flake8
+scikit-learn
