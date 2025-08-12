@@ -10,7 +10,7 @@ def analyze_spotify_data():
         host="localhost",
         database="spotify_db",
         user="root",
-        password="12345678"
+        password="0987654"
     )
     
     os.makedirs('visualisations', exist_ok=True)
@@ -59,4 +59,5 @@ def analyze_spotify_data():
 
 if __name__ == "__main__":
     stats = analyze_spotify_data()
+
     print("Analysis complete! Check visualisations folder.")
